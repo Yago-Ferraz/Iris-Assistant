@@ -15,6 +15,7 @@ datas/
 
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
+.ipynb
 
 # VS Code settings (se você usa)
 .vscode/
