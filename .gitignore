@@ -9,6 +9,7 @@ venv/
 venv
 sound
 sound/
+datas/
 # dotenv
 .env
 
