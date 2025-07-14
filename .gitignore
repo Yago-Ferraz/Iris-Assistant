@@ -1,0 +1,25 @@
+# Compiled python modules
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+venv/
+venv
+sound
+sound/
+# dotenv
+.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings (se você usa)
+.vscode/
+
+# MacOS
+.DS_Store
+
+# Outros arquivos temporários
+*.log
