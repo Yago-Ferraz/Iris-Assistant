@@ -6,7 +6,7 @@ __pycache__/
 # Virtual environment
 .venv/
 venv/
-venv
+.*venv
 sound
 sound/
 datas/
@@ -15,7 +15,7 @@ datas/
 
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
-.ipynb
+*.ipynb
 
 # VS Code settings (se você usa)
 .vscode/
